@@ -19,7 +19,7 @@
     line-height:    1.4em !important;
 }
 
-.entrybody p {
+.entrybody p, .entrybody li {
     font-size:      21px !important;
     line-height:    1.7em !important;
 }
